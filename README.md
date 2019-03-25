@@ -1,5 +1,5 @@
 # WWDC19
-## BattleshipAR - A recreation of the classic game "Battleship" with ARKit for WWDC19 Scholarship Submission
+### BattleshipAR - A recreation of the classic game "Battleship" with ARKit for WWDC19 Scholarship Submission
 
 Battleship was once a game played on pencil and paper, where the objective is to sink your enemies' ships are before they do.
 
